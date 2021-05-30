@@ -1,0 +1,3 @@
+[submodule "split_child"]
+	path = split_child
+	url = https://github.com/hxdong9102/split_child.git
